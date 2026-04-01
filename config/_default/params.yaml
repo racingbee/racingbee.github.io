@@ -88,9 +88,9 @@ hugoblox:
     align: center                       # left | center | right
     # Feature toggles
     search: true
-    theme_toggle: true
-    theme_picker: true
-    language_switcher: true
+    theme_toggle: false
+    theme_picker: false
+    language_switcher: false
     # Call-to-action button
     cta:
       enable: false
@@ -114,12 +114,12 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   copyright:
     # Copyright notice - supports {year}, {name}, {license} placeholders
-    notice: "© {year} {name}. This work is licensed under {license}"
+    notice: "© {year} {name}. All rights served."
     license:
       type: cc                          # cc | custom
-      allow_derivatives: false
+      allow_derivatives: true
       share_alike: true
-      allow_commercial: false
+      allow_commercial: true
 
   # ────────────────────────────────────────────────────────────────────────────
   # SEO
@@ -127,19 +127,19 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   seo:
     # Browser tab title override (defaults to identity.name if not set)
-    title: ""
+    title: "Racing Bee | Drone, FPV, and Racing Enthusiast"
     # For local_business identity type only
     location:
       address:
-        street: ""
-        city: ""
+        street: "Heaven Street 686"
+        city: "Ho Chi Minh City"
         region: ""
-        postal_code: ""
-        country: ""
+        postal_code: "700000"
+        country: "Viet Nam"
       coordinates:
         latitude: null
         longitude: null
-      phone: ""
+      phone: "+84987911413"
     # AI/LLM crawler guidance (llms.txt)
     ai:
       allow:
