@@ -2,17 +2,17 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Alex Johnson
-  given: Alex
-  family: Johnson
+  display: Racing Bee
+  given: Racing
+  family: Bee
 postnominals: []
 status:
   icon: "💻"  # Emoji shown on avatar badge: 💻 developer, 🎨 designer, 🚀 startup, 🔬 researcher, 🎓 student
 role: Full-Stack Developer
-email: alex@example.com
+email: racingbee@gmail.com
 bio: |
-  Full-stack developer with 5+ years of experience building scalable web applications.
-  Passionate about modern JavaScript, cloud architecture, and creating delightful user experiences.
+  Passionate about drone racing, FPV flight reviews and DIY projects. <br>
+  Build and share DIY projects, reviews from a hobbyist perspective.
 
 affiliations:
   - name: Tech Corp
@@ -20,14 +20,14 @@ affiliations:
 
 links:
   - icon: at-symbol
-    url: mailto:alex@example.com
+    url: mailto:racingbee@gmail.com
     label: E-mail Me
   - icon: brands/github
-    url: https://github.com/alexjohnson
+    url: https://github.com/racingbee
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/alexjohnson/
+    url: https://www.linkedin.com/in/racingbee/
   - icon: brands/x
-    url: https://x.com/alexjohnson
+    url: https://x.com/racingbee
 
 interests:
   - Web Development

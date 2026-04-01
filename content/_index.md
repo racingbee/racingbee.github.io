@@ -20,12 +20,12 @@ sections:
       show_scroll_indicator: true
       typewriter:
         enable: true
-        prefix: "I build"
+        prefix: "I build and share about"
         strings:
-          - "full-stack web apps"
-          - "scalable APIs"
-          - "beautiful UIs"
-          - "open source tools"
+          - "Drone Racing Projects"
+          - "FPV Flight Reviews"
+          - "DIY Projects"
+          - "Tech Insights"
         type_speed: 70
         delete_speed: 40
         pause_time: 2500
